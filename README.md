@@ -1,5 +1,13 @@
+# Money Ball
+## An analysis of Okaland's spending efficiency during the money ball period
 
-# Project 2
+This project aims to analyze the spending efficieny of oakland during the money ball reiod. During this period oakland was able to perform better than other team by redefining the important metrics of what makes a good player.
+
+More information can be found at:
+* [wikipedia](https://en.wikipedia.org/wiki/Moneyball)
+* [Moneyball Movie](https://www.imdb.com/title/tt1210166/)
+* [Moneyball book](https://www.amazon.com/Moneyball-The-Winning-Unfair-Game/dp/0393324818)
+* [Web article: FivethiryEight](https://fivethirtyeight.com/features/dont-be-fooled-by-baseballs-small-budget-success-stories/)
 
 
 ```python
@@ -20,7 +28,6 @@ conn = sqlite3.connect(sqlite_file)
 ```
 
 ## Part1: Wrangling
-### Problem1
 
 Query the database to obtain team data and store it in a variable
 
