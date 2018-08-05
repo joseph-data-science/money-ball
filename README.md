@@ -1,7 +1,7 @@
 # Money Ball
 ## An analysis of Okaland's spending efficiency during the money ball period
 
-This project aims to analyze the spending efficieny of oakland during the money ball reiod. During this period oakland was able to perform better than other team by redefining the important metrics of what makes a good player.
+This project aims to analyze the spending efficieny of oakland during the money ball period. During this period oakland was able to perform better than other team by redefining the important metrics of what makes a good player.
 
 More information can be found at:
 * [wikipedia](https://en.wikipedia.org/wiki/Moneyball)
